@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Container, VStack, Heading, Text, Box, Spinner, IconButton } from "@chakra-ui/react";
+import { Container, VStack, Heading, Text, Box, Spinner, IconButton, Image } from "@chakra-ui/react";
 import { FaSync } from "react-icons/fa";
 
 const mockFetchNews = () => {
